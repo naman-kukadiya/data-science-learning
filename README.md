@@ -2,7 +2,7 @@
 
 This repository contains a structured data science environment. It includes the foundational libraries required for data manipulation, statistical visualization, machine learning, and interactive Jupyter Notebook development.
 
-## 🛠️ Included Libraries
+##  Included Libraries
 
 The setup automatically installs the following core packages:
 *   *Numpy*
@@ -12,7 +12,7 @@ The setup automatically installs the following core packages:
 *   *Scikit-learn*
 *   *ipykernel*
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 ### Step 1: Create the Virtual Environment
     python3 -m venv .venv
     
