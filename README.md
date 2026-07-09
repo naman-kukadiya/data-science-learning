@@ -31,3 +31,5 @@ or select kernel in visual studio code
     pip install -r requirements.txt
 
 
+## Note for Notebook(.ipynb) user:
+Please clear shell outputs before pushing the code in the branch
