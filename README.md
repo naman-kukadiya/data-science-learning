@@ -14,7 +14,7 @@ The setup automatically installs the following core packages:
 
 ##  Setup Instructions
 ### Step 1: Create the Virtual Environment
-    python3 -m venv .venv
+    python -m venv .venv
     
 ### Step 2: Activate the script
     .venv\Scripts\activate.bat
