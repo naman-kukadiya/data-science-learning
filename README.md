@@ -21,7 +21,7 @@ The setup automatically installs the following core packages:
 or select kernel in visual studio code
 
  ### Step 3: Install Dependencies
-    pip install numpy pandas matplotlib seaborn scikit-learn ipykernel
+    pip install numpy pandas matplotlib seaborn scikit-learn ipykernel openpyxl
 
 <p align = "center">
     <h3 align = "center">OR</h3>
