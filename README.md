@@ -30,4 +30,31 @@ or select kernel in visual studio code
 ### 
     pip install -r requirements.txt
 
+### after setup understand this working flow because now we follow this and deal with dataset 
+Business Problem
+        ↓
+Collect Data
+        ↓
+Read CSV
+        ↓
+Understand Data
+        ↓
+Clean Data
+        ↓
+EDA
+        ↓
+Visualization
+        ↓
+Feature Engineering
+        ↓
+Preprocessing
+        ↓
+Model Building
+        ↓
+Evaluation
+        ↓
+Deployment
+        ↓
+Monitoring
+
 
